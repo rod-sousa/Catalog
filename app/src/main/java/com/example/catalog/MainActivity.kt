@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             CatalogTheme {
                 // A surface container using the 'background' color from the theme
+                // test commit
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
                     Greeting("Android")
                 }
