@@ -1,4 +1,4 @@
-package com.example.catalog.core.presentation
+package com.example.catalog.core.presentation.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
