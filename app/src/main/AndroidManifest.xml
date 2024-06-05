@@ -13,9 +13,8 @@
         android:theme="@style/Theme.Catalog"
         tools:targetApi="31">
         <activity
-            android:name=".core.presentation.view.MainActivity"
+            android:name=".core.presentation.view.CoreActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.Catalog">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

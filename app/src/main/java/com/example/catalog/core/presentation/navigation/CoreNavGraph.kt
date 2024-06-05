@@ -1,5 +1,6 @@
 package com.example.catalog.core.presentation.navigation
 
+import androidx.navigation.NavController
 import androidx.navigation.createGraph
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.fragment.fragment
